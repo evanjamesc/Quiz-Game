@@ -9,7 +9,7 @@ This is a simple true/false quiz application designed to test your knowledge abo
 - **Educational**: Learn interesting facts about various animals as you take the quiz.
 
 ## Installation
-To run the Animal True/False Quiz, follow these steps:
+To run the quiz, follow these steps:
 
 1. **Clone the repository:**
 - git clone https://github.com/evanjamesc/quiz-game.git
