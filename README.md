@@ -11,7 +11,7 @@ This is a simple true/false quiz application designed to test your knowledge abo
 ## Installation
 To run the quiz, follow these steps:
 
-1. **Clone the repository:**
+- Clone the repository
 - git clone https://github.com/evanjamesc/quiz-game.git
 - cd quiz-game
 - Run "main.py" locally on your machine
