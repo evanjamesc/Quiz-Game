@@ -12,9 +12,9 @@ This is a simple true/false quiz application designed to test your knowledge abo
 To run the Animal True/False Quiz, follow these steps:
 
 1. **Clone the repository:**
-  git clone https://github.com/evanjamesc/quiz-game.git
-  cd quiz-game
-  Run "main.py" locally on your machine
+- git clone https://github.com/evanjamesc/quiz-game.git
+- cd quiz-game
+- Run "main.py" locally on your machine
 
 ## How to Play
 - Launch the application using the instructions above.
