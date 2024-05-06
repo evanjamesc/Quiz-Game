@@ -4,7 +4,7 @@
 This is a simple true/false quiz application designed to test your knowledge about animals. It features a straightforward graphical user interface and provides immediate feedback on your performance through an alert at the end of the quiz.
 
 ## Features
-- **Simple GUI**: A user-friendly interface that allows easy interaction.
+- **Simple GUI**: A user-friendly interface that allows for easy interaction.
 - **Instant Feedback**: Get your score immediately after completing the quiz through a pop-up alert.
 - **Educational**: Learn interesting facts about various animals as you take the quiz.
 
